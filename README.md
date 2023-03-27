@@ -1,2 +1,5 @@
-# Disparador-de-mensagens-whasapp-
-Bot em python e javascript para envio de mensagens e imagens para contatos e grupos do whasapp
+# bots
+inicial
+segundo
+terceiro
+link para os executaveis, https://drive.google.com/drive/folders/1KNPQfhukWftfvgKGdinYgBMrL3RhSgGB?usp=sharing
